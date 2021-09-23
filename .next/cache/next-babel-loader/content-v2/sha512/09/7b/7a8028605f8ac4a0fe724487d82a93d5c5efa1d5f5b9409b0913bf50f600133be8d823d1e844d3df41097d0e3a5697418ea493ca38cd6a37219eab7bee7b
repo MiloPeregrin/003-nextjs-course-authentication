@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { MongoClient } from \"mongodb\";\nexport async function connectToDatabase() {\n  const client = await MongoClient.connect(\"mongodb+srv://Milo:GcczTZWrehL2KbVA@cluster1.rhs53.mongodb.net/authentication?retryWrites=true&w=majority\");\n  return client;\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport UserProfile from \"../components/profile/user-profile\";\n\nfunction ProfilePage() {\n  return /*#__PURE__*/_jsx(UserProfile, {});\n}\n\nexport var __N_SSP = true;\nexport default ProfilePage;","map":null,"metadata":{},"sourceType":"module"}
