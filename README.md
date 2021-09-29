@@ -24,7 +24,7 @@ State management řešen pomocí **useState** hook.
 
 ### Co jsem se naučil
 
--- proces autentizace uživatele
--- rozdíly mezi server-side sessions & JSON Web Token ověřováním
+- proces autentizace uživatele
+- rozdíly mezi server-side sessions & JSON Web Token ověřováním
 
 [**DEMO**](https://003-nextjs-course-authentication.vercel.app/)
